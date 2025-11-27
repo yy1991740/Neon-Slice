@@ -1,0 +1,7 @@
+{
+  "name": "nice",
+  "description": "一款高能的体感街机游戏，利用AI手势追踪技术，挥动双手切开霓虹水果。",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
